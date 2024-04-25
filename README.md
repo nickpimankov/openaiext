@@ -1,0 +1,2 @@
+# openaiext
+OpenAI kubectl plugin
